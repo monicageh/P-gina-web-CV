@@ -1,0 +1,33 @@
+head title {
+    font-family:'Courier New', Courier, monospace;
+    font-size: larger;
+    color: darkred;
+    margin: auto;
+}
+
+img {
+    float: right;
+    width: 200px;
+    height: 400px;
+}
+
+body {
+    background-color: burlywood;
+}
+
+h1 {
+    color: darkmagenta;
+}
+
+h2 {
+    color:darkslateblue;
+}
+ 
+h3 {
+    color: black;
+}
+
+section {
+    position: static;
+    right:auto;
+}
