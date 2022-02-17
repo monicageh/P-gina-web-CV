@@ -6,28 +6,36 @@ head title {
 }
 
 img {
-    float: right;
-    width: 200px;
-    height: 200px;
+    float: left;
+    padding-right: 10px;
+    margin: 20px;
+    width: 150px;
+    height: 150px;
 }
 
 body {
+    margin: 10px;
     background-color: burlywood;
 }
 
 h1 {
+    padding-top: 30px;
+    margin: 20px;
     color: darkmagenta;
 }
 
 h2 {
+    margin: 20px;
     color:darkslateblue;
 }
  
 h3 {
+    margin: 20px;
     color: black;
 }
 
 section {
+    margin: 20px;
     position: static;
     right:auto;
 }
